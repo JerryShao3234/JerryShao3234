@@ -1,5 +1,5 @@
 ### Hi there 👋  
-#It's about time I added a readme
+# It's about time I added a readme
 <!--
 **JerryShao3234/JerryShao3234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
