@@ -8,5 +8,5 @@
 
 ## GitHub Stats
 
-![JerryShao3234's GitHub stats](https://github-readme-stats.vercel.app/api?username=QGH11&show_icons=true)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QGH11&layout=compact)](https://github.com/QGH11/github-readme-stats)  
+![JerryShao3234's GitHub stats](https://github-readme-stats.vercel.app/api?username=JerryShao3234&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JerryShao3234&layout=compact)](https://github.com/JerryShao3234/github-readme-stats)  
