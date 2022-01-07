@@ -1,6 +1,6 @@
 ## Hi there 👋  
 
-## I'm a Computer Engineering student @ UBC  
+## Computer Engineering student @ UBC  
 
 - I enjoy software and firmware development 
 - I'm down for a team project or hackathon
