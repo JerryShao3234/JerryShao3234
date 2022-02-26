@@ -6,7 +6,7 @@
 - I'm down for a team project or hackathon
 - Currently learning C# and operating systems
 - Todo list:
-  -  finish sorting visualizer
+  -  ~~finish sorting visualizer~~
   -  start penetration modelling
   -  start Rubik's cube solver
 
