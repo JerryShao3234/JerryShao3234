@@ -7,7 +7,8 @@
 - Currently learning C# and operating systems
 - Todo list:
   -  ~~finish sorting visualizer~~
-  -  start enigma machine
+  -  ~~start enigma machine~~  
+  -  finish engima  
   -  start penetration modelling
   -  start Rubik's cube solver
 
