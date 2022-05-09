@@ -8,7 +8,7 @@
 - Todo list:
   -  ~~finish sorting visualizer~~
   -  ~~start enigma machine~~  
-  -  ~~finish engima  ~~
+  -  ~~finish engima~~
   -  start penetration modelling
   -  start Rubik's cube solver
 
