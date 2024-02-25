@@ -1,6 +1,6 @@
 ## Hi there 👋  
 
-## Computer Engineering student @ UBC  
+## Computer Engineering @ UBC  
 
 ## GitHub Stats
 
