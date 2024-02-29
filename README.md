@@ -1,6 +1,7 @@
 ## Hi there 👋  
 
 ## Computer Engineering @ UBC  
+Too bad my coolest repos have to be private :(
 
 ## GitHub Stats
 
